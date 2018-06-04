@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\bin\Debug\ChartSurface.dll
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\bin\Debug\ChartSurface.pdb
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\UserControl1.g.cs
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface_MarkupCompile.cache
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface_MarkupCompile.lref
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\UserControl1.baml
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.g.resources
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.Properties.Resources.resources
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.dll
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.pdb
+C:\Users\Admin\source\repos\ChartSurface\ChartSurface\obj\Debug\ChartSurface.csprojAssemblyReference.cache
